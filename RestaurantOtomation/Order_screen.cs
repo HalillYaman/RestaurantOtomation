@@ -16,5 +16,10 @@ namespace RestaurantOtomation
         {
             InitializeComponent();
         }
+
+        private void Order_screen_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
