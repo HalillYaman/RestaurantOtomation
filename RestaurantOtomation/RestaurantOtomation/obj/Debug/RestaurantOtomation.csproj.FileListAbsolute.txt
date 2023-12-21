@@ -9,3 +9,14 @@ C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\
 C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.csproj.CoreCompileInputs.cache
 C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.exe
 C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.pdb
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\bin\Debug\RestaurantOtomation.exe.config
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\bin\Debug\RestaurantOtomation.exe
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\bin\Debug\RestaurantOtomation.pdb
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.csproj.AssemblyReference.cache
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.Cashier_Login.resources
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.Form1.resources
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.Properties.Resources.resources
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.csproj.GenerateResource.cache
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.csproj.CoreCompileInputs.cache
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.exe
+C:\Users\heser\Source\Repos\HalillYaman\RestaurantOtomation\RestaurantOtomation\RestaurantOtomation\obj\Debug\RestaurantOtomation.pdb
